@@ -34,9 +34,6 @@ function init() {
     }
   });
   
-  //function onKeyHandler(e) {
-  //}
-  
 }
 
   
