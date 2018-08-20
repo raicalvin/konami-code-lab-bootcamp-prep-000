@@ -13,7 +13,6 @@ const codes = [
 
 // Attach to document listener
   let bd = document.querySelectorAll('body')[0];
-  
 
 function init() {
   // your code here
